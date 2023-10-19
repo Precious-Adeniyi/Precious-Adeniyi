@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Precious-Adeniyi
-- 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning Microsoft Office, MySQL and Power Platform
-- 💞️ I’m looking to collaborate on Projects and Graduate Internship
+- 👀 I’m interested in Data Analysis, Data Science and Database Analysis
+- 🌱 I’m Proficient in SQL, Python, Machine Learning, Excel, Microsoft Power Platform and Tableau
+- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me (https://www.linkedin.com/in/adeniyipreciousoluwaseun)
 
 <!---
